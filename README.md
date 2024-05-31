@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jishnupl07
-- 👀 I’m interested in Python , C++, C , Java.
+- 👀 I’m interested in.... not you (LOL)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My first words were " Hello World! "
 
