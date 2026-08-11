@@ -28,32 +28,6 @@ Double-tracking my academic growth, I am pursuing an **MTech in Integrated Compu
 - **Deployment & DevOps:** Vercel, Netlify, Supabase, Git/GitHub
 
 ---
-
-### 🎓 Education
-
-* **MTech in Integrated Computer Science & Engineering (5 Years)**
-  * **SSN College of Engineering, Chennai** (2025 — 2030) | **GPA: 9.8 / 10.0**
-* **BS in Data Science**
-  * **IIT Madras** (2025 — Present) | **GPA: 8.67 / 10.0**
-* **Chinmaya Vidyalaya Sr. Sec. School, Chennai**
-  * **Class 12 (CBSE)** (2024 — 2025) | **Score: 97%**
-  * **Class 10 (CBSE)** (2022 — 2023) | **Score: 95.8%**
-
----
-
-### 💼 Experience & Achievements
-
-* **Kurukshetra'26 — Chinmaya Yuva Kendra** (2026)
-  * Contributed to the creation of the official website and mobile game for Kurukshetra'26.
-* **Kurukshetra'25 — Chinmaya Yuva Kendra** (2025)
-  * Coordinated and organized Kurukshetra'25, a massive cultural event, gaining event execution and team coordination skills.
-* **Photo and Video Editing — Chinmaya Mission Events** (2024 — 2025)
-  * Edited over 20+ promotional videos, designed digital certificates, and created layout structures for event magazines and flyers.
-* **Hackathons & Competitions** (2023 — 2025)
-  * Winner of multiple inter-school and cultural hackathons, solving complex coding challenges.
-
----
-
 ### 📂 Featured Projects
 
 #### 🌐 Web & Full-Stack Applications
