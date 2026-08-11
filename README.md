@@ -1,294 +1,127 @@
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jishnu%20PL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Creator&descAlignY=60&descAlign=50)
+# 👋 Hi, I'm Jishnu PL
 
-</div>
+### Developer • Creator • Learner
 
-# 🚀 Hi there! I'm Jishnu PL 🤖 🎮 🌐 📊 🎨 🤖
-
-## 🌟 3D Contribution Graph
-
-<div align="center">
-
-![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight&custom_title=3D%20Contribution%20Graph)
-
-<!-- Alternative Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight)
-
-</div>
-
-## ⏰ Development Activity
-
-<div align="center">
-
-![Development Activity](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=📊%20Development%20Activity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-</div>
-
-## ⚙️ What I Do
-
-🌱 Growing developer excited about code and creativity. Building projects and learning something new every day.
-
-## 🏆 Profile Badges
-
-<div align="center">
-
-![Badge](https://img.shields.io/github/followers/jishnupl07?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=blue&label=👥%20Followers) ![Badge](https://img.shields.io/github/stars/jishnupl07?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=yellow&label=⭐%20Stars) ![Badge](https://img.shields.io/badge/📅%20Since-2023-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-![Badge](https://img.shields.io/badge/📁%20Repos-19-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jishnupl07&label=Profile%20views&color=0e75b6&style=flat&labelColor=1c1917)
-
-</div>
-
-## 💭 Daily Programming Wisdom
-
-<div align="center">
-
-> **In order to be irreplaceable, one must always be different.** ✨
-
-</div>
-
-## ⚙️ Complete Tech Arsenal
-
-### 🔥 Programming Languages
-
-<div align="center">
-
-![Languages](https://skillicons.dev/icons?i=python,html,ts,css,java,js&theme=dark&perline=8)
-
-</div>
-
-### ⚡ Frameworks & Libraries
-
-<div align="center">
-
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask&theme=dark&perline=8)
-
-</div>
-
-### 🛠️ Tools & Technologies
-
-<div align="center">
-
-![Tools](https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=8)
-
-</div>
-
-### 📊 Skill Level Breakdown
-
-<div align="center">
-
-| 💻 **Language** | ⭐ **Level** | 📈 **Progress** | 🎯 **Usage** |
-|-----------------|--------------|-----------------|------------------|
-| **Python** 🐍 | 🌟 Expert | `████████████` | Daily |
-| **HTML** 🌐 | 🔥 Advanced | `█████████▒▒▒` | Frequent |
-| **TypeScript** 🔷 | ⚡ Intermediate | `███████▒▒▒▒▒` | Often |
-| **CSS** 🎨 | 🌱 Learning | `█████▒▒▒▒▒▒▒` | Sometimes |
-| **Java** ☕ | 📚 Exploring | `███▒▒▒▒▒▒▒▒▒` | Exploring |
-
-</div>
-
-## ⚡ GitHub Streaks & Achievements
-
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=jishnupl07&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23c0caf5%22%2C%22accentColor%22%3A%22%237aa2f7%22%2C%22borderColor%22%3A%22%23414868%22%2C%22waterColor%22%3A%22%237aa2f7%22%2C%22streakColor%22%3A%22%23f7768e%22%7D)
-
-</div>
-
-## 🎉 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&theme=tokyonight&area=true&hide_border=true&custom_title=Contribution%20Graph&line=9ece6a&point=9ece6a&area_color=9ece6a40&title_color=9ece6a&color=9ece6a&bg_color=bb9af720)
-
-</div>
-
-## 📊 GitHub Metrics Dashboard
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&line_height=21&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
-
-<!-- Alternative GitHub Metrics for better reliability -->
-![Alternative Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jishnupl07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&include_all_commits=true)
-
-![Backup Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jishnupl07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000)
-
-![Comprehensive Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=27&custom_title=📊%20Comprehensive%20GitHub%20Statistics)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jishnupl07&theme=dark)
-
-</div>
-
-## 🐍 Snake eating contributions
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>🔧 How to add YOUR Snake Animation</summary>
-
-1. Create a repository with the same name as your username (jishnupl07)
-2. Add the GitHub Action from: https://github.com/Platane/snk
-3. The snake animation will be generated automatically with your contributions!
-4. After setup, regenerate your README to see your personal snake!
-
-</details>
-
-## 🎵 Music & Entertainment
-
-### 🎧 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
-
-### 🔥 Top Tracks This Week
-
-<div align="center">
-
-[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/YOUR_USERNAME)
-
-</div>
-
-## 📊 Advanced Analytics
-
-<div align="center">
-
-| 📊 **Metric** | 🔢 **Count** | 📈 **Details** | 🎯 **Impact** |
-|---------------|--------------|----------------|---------------|
-| **Total Repositories** | 19 | 📁 Public projects | 🌟 Innovation |
-| **Total Stars Earned** | 0 | ⭐ Community love | 🚀 Recognition |
-| **Total Forks** | 0 | 🍴 Code reused | 💡 Inspiration |
-| **Pull Requests** | 1 | 🔄 Contributions | 🤝 Collaboration |
-| **Issues Solved** | 0 | 🐛 Problems fixed | 🛠️ Problem solving |
-| **This Week's Commits** | 0 | 💻 Recent activity | ⚡ Consistency |
-
-</div>
-
-## 📦 Featured Projects
-
-<div align="center">
-
-### 🌟 Showcasing My Best Work
-
-<a href="https://github.com/jishnupl07/jishnupl07" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=jishnupl07&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/jishnupl07/BPM-classifier" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=BPM-classifier&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<a href="https://github.com/jishnupl07">
+  <img src="https://komarev.com/ghpvc/?username=jishnupl07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
 
-<a href="https://github.com/jishnupl07/Jishnu-Webpages" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=Jishnu-Webpages&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/jishnupl07/FDA-OYF" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/jishnupl07/FDA-OYF-Dev" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Dev&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/jishnupl07/FDA-OYF-Comprehensive" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Comprehensive&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<a href="https://github.com/jishnupl07?tab=followers">
+  <img src="https://img.shields.io/github/followers/jishnupl07?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
 </a>
 
 </div>
-
-## 👥 Recent Profile Visitors
-
-<div align="center">
-
-### 🌟 Thanks for visiting! Meet some amazing developers who recently followed me:
-
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/HaswanthTamil" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/186743074?v=4?s=80" width="80px" height="80px" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);" alt="HaswanthTamil" title="Visit HaswanthTamil's profile" />
-<br/>
-<sub><b style="font-size: 12px; color: #58a6ff;">HaswanthTamil</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/vikashsekar" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/220620309?v=4?s=80" width="80px" height="80px" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);" alt="vikashsekar" title="Visit vikashsekar's profile" />
-<br/>
-<sub><b style="font-size: 12px; color: #58a6ff;">vikashsekar</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/santhosh-m29" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/232208239?v=4?s=80" width="80px" height="80px" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);" alt="santhosh-m29" title="Visit santhosh-m29's profile" />
-<br/>
-<sub><b style="font-size: 12px; color: #58a6ff;">santhosh-m29</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-### 💝 Join our growing community of many amazing developers!
-
-<p align="center">
-<a href="https://github.com/jishnupl07?tab=followers" target="_blank">
-<img src="https://img.shields.io/github/followers/jishnupl07?label=Follow%20%40jishnupl07&style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue" alt="Follow jishnupl07"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B%20New%20friends%20are%20always%20welcome!%3B%F0%9F%9A%80%20Let's%20build%20something%20amazing%20together!%3B%F0%9F%92%BB%20Open%20to%20collaboration%20and%20new%20ideas!%3B%F0%9F%8C%9F%20Thanks%20for%20visiting%20my%20profile!" alt="Typing SVG" />
-</p>
-
-</div>
-
-## 🎮 Daily Dose of Inspiration
-
-<div align="center">
-
-> **The best method for accelerating a computer is the one that boosts it by 9.8 m/s².** ✨
-
-</div>
-
-### 😄 Developer Humor Break
-
-<div align="center">
-
-What did the Java code say to the C code? You've got no class! 😎
-
-</div>
-
-<div align="center">
 
 ---
 
-## 🔗 Let's Build Something Amazing Together!
+## 🚀 About Me
 
-[![Website](https://img.shields.io/badge/🌐%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](jishnupl-resume.vercel.app) [![Twitter](https://img.shields.io/badge/🐦%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JishnuPl) [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jishnupl07) [![GitHub](https://img.shields.io/badge/🐙%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jishnupl07)
+I'm a developer interested in building useful projects, exploring new technologies, and turning ideas into working software.
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jishnupl07&label=Profile%20views&color=0e75b6&style=flat&labelColor=1c1917) ![GitHub Followers](https://img.shields.io/github/followers/jishnupl07?style=social&label=Follow) ![GitHub Stars](https://img.shields.io/github/stars/jishnupl07?style=social&label=Stars)
-
-### ✨ "Code is poetry written in logic" ✨
-
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-
-*Made with ❤️, lots of ☕, and a touch of ✨ magic*
+* 💻 Building projects and learning continuously
+* 🐍 Interested in Python and software development
+* 🌐 Exploring web development
+* 🎨 Enjoy creating and experimenting with new ideas
+* 🤝 Open to collaboration and interesting projects
 
 ---
 
-> 🚀 **"Every expert was once a beginner. Keep coding, keep learning!"**
+## 🛠️ Tech Stack
 
-⭐ **From [jishnupl07](https://github.com/jishnupl07) with 💝**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,django,flask,git,vscode&perline=6" alt="Tech Stack"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnupl07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jishnupl07/jishnupl07/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/jishnupl07/BPM-classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=BPM-classifier&theme=tokyonight&hide_border=true" alt="BPM Classifier"/>
+</a>
+
+<a href="https://github.com/jishnupl07/Jishnu-Webpages">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=Jishnu-Webpages&theme=tokyonight&hide_border=true" alt="Jishnu Webpages"/>
+</a>
+
+<a href="https://github.com/jishnupl07/FDA-OYF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF&theme=tokyonight&hide_border=true" alt="FDA OYF"/>
+</a>
+
+<a href="https://github.com/jishnupl07/FDA-OYF-Dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Dev&theme=tokyonight&hide_border=true" alt="FDA OYF Dev"/>
+</a>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/jishnupl07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/jishnupl07">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/JishnuPl">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+
+<a href="https://jishnupl-resume.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is poetry written in logic."
+
+**Thanks for visiting my profile!**
 
 </div>
