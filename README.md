@@ -5,15 +5,14 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I design and build software that bridges modern web technologies, artificial intelligence, and embedded systems. From full-stack web applications and scalable SaaS platforms to AI-powered computer vision tools and IoT automation, I enjoy crafting clean, high-performance solutions to real-world problems.
+I create and develop software that connects cutting-edge web technologies with AI. I take pleasure in developing streamlined, high-performance solutions for actual problems, whether it's a full-stack web app, a scalable SaaS platform, computer vision tools powered by AI, or automation for the internet of things.
 
-Double-tracking my academic growth, I am pursuing an **MTech in Integrated Computer Science & Engineering** at SSN College of Engineering alongside a **BS in Data Science** from IIT Madras.
 
 ---
 
-### 🛠️ Technical Stack & Skills
+###  Technical Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,typescript,java,c,cs,react,nextjs,nodejs,supabase,postgres,html,css,unity,vercel,netlify,arduino&perline=9" alt="Jishnu's Tech Stack" />
