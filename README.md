@@ -1,15 +1,19 @@
-# 🚀 Hi there! I'm Jishnu PL 
 <div align="center">
-  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" alt="Header GIF">
+
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jishnu%20PL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Creator&descAlignY=60&descAlign=50)
 
 </div>
 
-## 🌐 Connect With Me
+# 🚀 Hi there! I'm Jishnu PL 🤖 🎮 🌐 📊 🎨 🤖
+
+## 🌟 3D Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnupl/) [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jishnupl-resume.vercel.app/) [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=briefcase&logoColor=white)](https://jishnupl-resume.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jishnuprabhulavanya@gmail.com) 
+![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight&custom_title=3D%20Contribution%20Graph)
+
+<!-- Alternative Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyonight)
 
 </div>
 
@@ -17,7 +21,7 @@
 
 <div align="center">
 
-![Development Activity](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=📊%20Development%20Activity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Development Activity](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=📊%20Development%20Activity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
 
@@ -44,7 +48,7 @@
 
 <div align="center">
 
-> **Programming is not about typing, it's about thinking.** ✨
+> **In order to be irreplaceable, one must always be different.** ✨
 
 </div>
 
@@ -62,7 +66,7 @@
 
 <div align="center">
 
-![Frameworks](https://skillicons.dev/icons?i=react,r&theme=dark&perline=8)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,flask&theme=dark&perline=8)
 
 </div>
 
@@ -70,7 +74,7 @@
 
 <div align="center">
 
-![Tools](https://skillicons.dev/icons?i=numpy,vite,eslint,r,git,vscode&theme=dark&perline=8)
+![Tools](https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=8)
 
 </div>
 
@@ -92,7 +96,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=jishnupl07&theme=%7B%22backgroundColor%22%3A%22%23282a36%22%2C%22textColor%22%3A%22%23f8f8f2%22%2C%22accentColor%22%3A%22%23ff79c6%22%2C%22borderColor%22%3A%22%236272a4%22%2C%22waterColor%22%3A%22%23ff79c6%22%2C%22streakColor%22%3A%22%23ff5555%22%7D)
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=jishnupl07&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23c0caf5%22%2C%22accentColor%22%3A%22%237aa2f7%22%2C%22borderColor%22%3A%22%23414868%22%2C%22waterColor%22%3A%22%237aa2f7%22%2C%22streakColor%22%3A%22%23f7768e%22%7D)
 
 </div>
 
@@ -100,7 +104,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Graph&line=9ece6a&point=9ece6a&area_color=9ece6a40&title_color=9ece6a&color=9ece6a&bg_color=bb9af720)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&theme=tokyonight&area=true&hide_border=true&custom_title=Contribution%20Graph&line=9ece6a&point=9ece6a&area_color=9ece6a40&title_color=9ece6a&color=9ece6a&bg_color=bb9af720)
 
 </div>
 
@@ -108,14 +112,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&line_height=21&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&line_height=21&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117)
 
 <!-- Alternative GitHub Metrics for better reliability -->
-![Alternative Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jishnupl07&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=00000000&include_all_commits=true)
+![Alternative Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jishnupl07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&include_all_commits=true)
 
-![Backup Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jishnupl07&show_icons=true&theme=dracula&count_private=true&hide_border=true&bg_color=00000000)
+![Backup Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jishnupl07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000)
 
-![Comprehensive Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=27&custom_title=📊%20Comprehensive%20GitHub%20Statistics)
+![Comprehensive Stats](https://github-readme-stats.vercel.app/api?username=jishnupl07&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=27&custom_title=📊%20Comprehensive%20GitHub%20Statistics)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jishnupl07&theme=dark)
 
@@ -141,6 +145,22 @@
 
 ## 🎵 Music & Entertainment
 
+### 🎧 Currently Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+</div>
+
+### 🔥 Top Tracks This Week
+
+<div align="center">
+
+[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/YOUR_USERNAME)
+
+</div>
+
 ## 📊 Advanced Analytics
 
 <div align="center">
@@ -162,25 +182,25 @@
 
 ### 🌟 Showcasing My Best Work
 
-<a href="https://github.com/jishnupl07/BPM-classifier" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=BPM-classifier&theme=dracula&hide_border=true&bg_color=00000000" />
-</a>
 <a href="https://github.com/jishnupl07/jishnupl07" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=jishnupl07&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=jishnupl07&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</a>
+<a href="https://github.com/jishnupl07/BPM-classifier" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=BPM-classifier&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/jishnupl07/Jishnu-Webpages" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=Jishnu-Webpages&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=Jishnu-Webpages&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/jishnupl07/FDA-OYF" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 
 <a href="https://github.com/jishnupl07/FDA-OYF-Dev" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Dev&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Dev&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/jishnupl07/FDA-OYF-Comprehensive" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Comprehensive&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jishnupl07&repo=FDA-OYF-Comprehensive&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </a>
 
 </div>
@@ -217,7 +237,7 @@
 </tr>
 </table>
 
-### 💝 Join our growing community of 3 developers!
+### 💝 Join our growing community of many amazing developers!
 
 <p align="center">
 <a href="https://github.com/jishnupl07?tab=followers" target="_blank">
@@ -235,7 +255,7 @@
 
 <div align="center">
 
-> **First, solve the problem. Then, write the code.** ✨
+> **The best method for accelerating a computer is the one that boosts it by 9.8 m/s².** ✨
 
 </div>
 
@@ -243,7 +263,7 @@
 
 <div align="center">
 
-What's a programmer's favorite hangout place? Foo Bar! 🍺
+What did the Java code say to the C code? You've got no class! 😎
 
 </div>
 
@@ -257,8 +277,6 @@ What's a programmer's favorite hangout place? Foo Bar! 🍺
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn)
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Footer Animation">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=jishnupl07&label=Profile%20views&color=0e75b6&style=flat&labelColor=1c1917) ![GitHub Followers](https://img.shields.io/github/followers/jishnupl07?style=social&label=Follow) ![GitHub Stars](https://img.shields.io/github/stars/jishnupl07?style=social&label=Stars)
 
 ### ✨ "Code is poetry written in logic" ✨
@@ -266,8 +284,6 @@ What's a programmer's favorite hangout place? Foo Bar! 🍺
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
 *Made with ❤️, lots of ☕, and a touch of ✨ magic*
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Skills Animation">
 
 ---
 
