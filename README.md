@@ -1,15 +1,6 @@
+# 🚀 Hi there! I'm Jishnu PL 
 <div align="center">
-
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jishnu%20PL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Creator&descAlignY=60&descAlign=50)
-
-![Fire Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5%20AMAZING%20DEVELOPER%20%F0%9F%94%A5%3B%F0%9F%92%BB%20CODING%20WIZARD%20%F0%9F%92%BB%3B%F0%9F%9A%80%20OPEN%20SOURCE%20HERO%20%F0%9F%9A%80%3B%E2%9C%A8%20INNOVATION%20ENTHUSIAST%20%E2%9C%A8)
-
-</div>
-
-# 🚀 Hi there! I'm Jishnu PL 🤖 🎮 🌐 📊 🎨 🤖
-
-<div align="center">
-
+  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" alt="Header GIF">
 
 </div>
