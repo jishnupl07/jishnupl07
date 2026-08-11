@@ -1,118 +1,46 @@
 <div align="center">
 
-# 👋 Hi, I'm Jishnu PL
+# Jishnu PL
 
-### Developer • Creator • Learner
+**Developer • Software Engineer • Creator**
 
-<p>
-  <a href="https://github.com/jishnupl07">
-    <img src="https://img.shields.io/badge/GitHub-jishnupl07-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/jishnupl07">
-    <img src="https://img.shields.io/badge/LinkedIn-Jishnu%20PL-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://jishnupl-resume.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=jishnupl07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+[![GitHub](https://img.shields.io/badge/GitHub-jishnupl07-181717?style=flat-square&logo=github)](https://github.com/jishnupl07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jishnupl07-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jishnupl07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=google-chrome)](https://jishnupl-resume.vercel.app)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a developer interested in building useful projects, exploring new technologies, and turning ideas into working software.
-
-- 💻 Building projects and learning continuously
-- 🐍 Python development
-- 🌐 Web development
-- 🎨 Creating and experimenting with new ideas
-- 🤝 Interested in collaboration and open-source
+I build software with a focus on practical problem solving, web development, and Python-based applications. I enjoy turning ideas into clean, functional products while continuously expanding my technical skill set.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,django,flask,git,vscode&perline=6" alt="Tech Stack"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishnupl07&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### 🎵 BPM Classifier
-Music/BPM classification project.
-
-[View Repository →](https://github.com/jishnupl07/BPM-classifier)
-
-### 🌐 Jishnu Webpages
-Web development projects and experiments.
-
-[View Repository →](https://github.com/jishnupl07/Jishnu-Webpages)
-
-### 📊 FDA-OYF
-Project repository for FDA-OYF.
-
-[View Repository →](https://github.com/jishnupl07/FDA-OYF)
-
-### 💻 FDA-OYF Dev
-Development version of FDA-OYF.
-
-[View Repository →](https://github.com/jishnupl07/FDA-OYF-Dev)
-
----
-
-## 📊 GitHub
-
+<!-- STACK:START -->
 <p align="center">
-
-<a href="https://github.com/jishnupl07?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-<a href="https://github.com/jishnupl07?tab=followers">
-  <img src="https://img.shields.io/badge/View%20Followers-0e75b6?style=for-the-badge&logo=github" alt="Followers"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,java,react,nodejs,django,flask,git,vscode&perline=6" alt="Tech Stack"/>
 </p>
+<!-- STACK:END -->
 
 ---
 
-## 🔗 Connect With Me
+## Top Repositories
+
+<!-- REPOS:START -->
+<p align="center">Repository data is updated automatically.</p>
+<!-- REPOS:END -->
+
+---
+
+## GitHub
 
 <div align="center">
 
-<a href="https://github.com/jishnupl07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/jishnupl07">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://twitter.com/JishnuPl">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
-<a href="https://jishnupl-resume.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jishnupl07)
 
 </div>
 
@@ -120,8 +48,6 @@ Development version of FDA-OYF.
 
 <div align="center">
 
-### 💡 "Code is poetry written in logic."
-
-**Thanks for visiting my profile!**
+**Build. Learn. Improve.**
 
 </div>
